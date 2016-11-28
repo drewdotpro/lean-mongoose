@@ -1,0 +1,26 @@
+{
+  "name": "lean-mongoose",
+  "version": "1.0.0",
+  "description": "Mongoose with lean as default for Query (assumes you have your version of mongoose installed in your package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewdotpro/lean-mongoose.git"
+  },
+  "keywords": [
+    "mongoose",
+    "lean"
+  ],
+  "author": "Drew Llewellyn <drew@drew.pro> (http://drew.pro)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewdotpro/lean-mongoose/issues"
+  },
+  "homepage": "https://github.com/drewdotpro/lean-mongoose#readme",
+  "dependencies": {
+    "lodash": "^4.17.2"
+  }
+}
